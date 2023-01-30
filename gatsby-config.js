@@ -51,6 +51,13 @@ module.exports = {
         allExtensions: true,
       },
     },
+    {
+      resolve: 'gatsby-plugin-canonical-urls',
+      options: {
+        siteUrl: '<https://my-website.com/>',
+        stripQueryString: true,
+      },
+    },
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     {
