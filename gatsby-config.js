@@ -58,6 +58,12 @@ module.exports = {
         stripQueryString: true,
       },
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    },
     'gatsby-plugin-sitemap',
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
