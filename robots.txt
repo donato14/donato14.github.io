@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://donato14.github.io/sitemap-index.xml
+Host: https://donato14.github.io
