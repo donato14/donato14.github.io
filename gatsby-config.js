@@ -12,7 +12,7 @@ module.exports = {
     title: `개발 새싹반 개발블로그`,
     description: `매일매일의 기록입니다`,
     author: `Kujun`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://donato14.github.io/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: '<https://my-website.com/>',
+        siteUrl: `https://donato14.github.io/`,
         stripQueryString: true,
       },
     },
