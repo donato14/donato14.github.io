@@ -58,6 +58,7 @@ module.exports = {
         stripQueryString: true,
       },
     },
+    'gatsby-plugin-sitemap',
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     {
