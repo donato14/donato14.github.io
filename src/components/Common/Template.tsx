@@ -50,7 +50,7 @@ const Template: FunctionComponent<TemplateProps> = function ({
 
         <meta
           name="google-site-verification"
-          content='<meta name="google-site-verification" content="hrPAdGtk4FF3ksLP_wqyhGxOQi87ab3VYycXtYH4fdI" />'
+          content="hrPAdGtk4FF3ksLP_wqyhGxOQi87ab3VYycXtYH4fdI"
         />
 
         <html lang="ko" />
