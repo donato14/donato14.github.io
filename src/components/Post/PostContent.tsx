@@ -28,7 +28,7 @@ const MarkdownRenderer = styled.div`
   h1,
   h2,
   h3 {
-    font-weight: 800;
+    font-weight: 700;
     margin-bottom: 30px;
   }
 
@@ -61,7 +61,7 @@ const MarkdownRenderer = styled.div`
     margin: 30px 0;
     padding: 5px 15px;
     border-left: 2px solid #000000;
-    font-weight: 800;
+    font-weight: 700;
   }
 
   // Adjust List Element Style
